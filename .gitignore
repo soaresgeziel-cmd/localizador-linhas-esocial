@@ -1,0 +1,21 @@
+# Python & Ambientes Virtuais
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# PyInstaller & Outputs
+build/
+dist/
+*.spec
+
+# Dados Locais e Testes
+*.csv
+*.xlsx
+*.txt
+
+# IDEs
+.vscode/
+.idea/
